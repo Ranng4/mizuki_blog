@@ -1,3 +1,4 @@
 [submodule "content"]
 	path = content
-	url = git@github.com:Ranng4/blog-content.git
+	url = https://github.com/Ranng4/blog-content.git
+	branch = main
